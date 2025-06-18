@@ -1,0 +1,22 @@
+{
+  "validUser": {
+    "firstName": "Bans",
+    "lastName": "Lee",
+    "email": "clee+bans003@investwithroots.com",
+    "password": "Testing1234!",
+    "phoneNumber": "1234567890",
+    "legalEntity1": "Bans Entity",
+    "legalEntity2": "",
+    "individual1": "Bans Lee",
+    "individual2": "",
+    "custodial1": "ddasdad",
+    "custodial2": ""
+
+  },
+
+  
+  "invalidUser": {
+    "email": "invalid-email@invalid.com",
+    "password": "WrongPass123"
+  }
+}
